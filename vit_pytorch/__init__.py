@@ -1,3 +1,4 @@
+from vit_pytorch.vitMultKeys import ViTMultKeys
 from vit_pytorch.vit import ViT
 from vit_pytorch.simple_vit import SimpleViT
 
